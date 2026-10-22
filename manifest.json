@@ -1,0 +1,18 @@
+{
+    "id": "./",
+    "name": "Namscott Enterprises",
+    "short_name": "Namscott",
+    "description": "Building businesses. Connecting possibilities.",
+    "lang": "en",
+    "start_url": "./index.html",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#ffffff",
+    "theme_color": "#eff6ff",
+    "categories": [
+        "business",
+        "productivity",
+        "utilities"
+    ]
+}
